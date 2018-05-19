@@ -22,7 +22,7 @@ defmodule Scraper.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      dir_walker: "~> 0.0.7",
+      dir_walker: "~> 0.0.7"
     ]
   end
 end

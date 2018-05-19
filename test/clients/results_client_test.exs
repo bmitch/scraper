@@ -27,5 +27,4 @@ defmodule Scraper.Clients.ResultsClientTest do
     assert Enum.count(result) == 1
     assert result['USD'] == 12.99
   end
-
 end
